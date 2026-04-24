@@ -12,8 +12,6 @@ x = torch.rand(5, 4).to(device)
 print(x)
 
 
-# this is a test code for vscode notebook
-# import numpy as np
-# new code line 1
-# new code line 2
+
 # new code line 3
+# new code line 4df 
