@@ -14,3 +14,4 @@ print(x)
 
 
 # new code line main
+# 1. 创建一个简单的张量
