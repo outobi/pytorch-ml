@@ -14,4 +14,5 @@ print(x)
 
 
 # new code line main
-# 12345
+# 1. 创建一个简单的张量
+# 2. 将张量移动到 GPU 上（如果可用）
